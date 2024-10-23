@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [PyAlc](https://github.com/HellSAS/AlcoPy)
 
-- 🌱 I’m currently learning **PostgreSQL, Django, C#, Js**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [Art](https://github.com/sepandhaghighi/art)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **thehellsas@gmail.com** **Discord: hellsas**
+- 📫 How to reach me **thehellsas@gmail.com** **Discord: utkabob**
 
 - ⚡ Fun fact **I love cats**
 
